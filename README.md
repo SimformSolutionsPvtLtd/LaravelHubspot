@@ -1,6 +1,6 @@
-# HubSpot Integration with Laravel Demo
+# HubSpot Integration with Laravel
 
-This repository offers a demo showing how several HubSpot capabilities can be integrated with a Laravel project. Integrations for email, contact management, form submission, and process triggers are all included in the sample. You can follow the instructions in this README for setting up and using the integration.
+This repository offers a demo showing how several HubSpot capabilities can be integrated with a Laravel framework. Integrations for email, contact management, form submission, and process triggers are all included in the sample. You can follow the instructions in this README for setting up and using the integration.
 
 ## Table of Contents
 
